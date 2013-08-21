@@ -317,7 +317,8 @@ li:hover li {
 	border-bottom: thin solid;
  }
  
- #newsMediaIcons {
+ .blogContent img {
+	padding: 10px;
 	
  }
  
