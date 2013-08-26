@@ -1,10 +1,8 @@
 /*CSS for mobile browsers*/
  #footerText {
+	max-height: 999999px;
 	font-size: .6em;
-	top: 20px;
-	right: 5px;
-	bottom: auto;
-	left: auto;
+	//-webkit-text-size-adjust: none;
 	
 		
  }
